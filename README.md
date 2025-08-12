@@ -2,6 +2,7 @@
 
 🚀 **My Tracker App** was recognized in the **Google Maps Platform Awards** on **May 20, 2025**, for outstanding implementation of real-time geolocation and mapping technologies.
 GOOGLE MAP BADGE FOR PARTICIPATION
+<br>
 WINNER WILL ANNOUNCED SOON :-ON SEPTEMBER 19
 ![google map](https://github.com/user-attachments/assets/928a73ac-e8ed-4d98-b5de-b49e7c1e20f3)
 
