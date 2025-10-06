@@ -5,8 +5,7 @@ MACOS LIVE LINK :- https://meek-kashata-352d84.netlify.app/
  
  
  
- 
- 
+
  🏆 Google Maps Platform Awards HACKETTON - My Tracker App
 
 🚀 **My Tracker App** was recognized in the **Google Maps Platform Awards** on **May 20, 2025**, for outstanding implementation of real-time geolocation and mapping technologies.
